@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">Hi, This is Sewmini Ranasinghe !!!<br><br>- 🔭 I’m working as an Associate Software Engineer<br>- 📚 I'm currently learning Flutter Applications<br>- ⚡ I love to expand my knowledge with different applications.</p>
+<p align="left">Hi, This is Sewmini Ranasinghe !!!<br><br>- 🔭 I’m working as an Associate Software Engineer<br>- 📚 I'm currently learning more Flutter Applications<br>- ⚡ I love to expand my knowledge with different applications.</p>
 
 ###
 
@@ -38,6 +38,6 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">🔥   What has been covered :<br><br>1) Create page navigation<br>2) Handling Stateless/Stateful Widgets<br>3) Using refactors for widgets<br>4) Use Row/column-wise content placement<br>5) Display the index-wise pages in the navigation bar<br>6) Condition-wise requirement change using a switch<br>7) Page leading attributes</h3>
 
 ###
