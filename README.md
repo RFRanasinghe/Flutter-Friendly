@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">Hi, This is Sewmini Ranasinghe !!!<br><br>- 🔭 I’m working as an Associate Software Engineer<br>- 📚 I'm currently learning more Flutter Applications<br>- ⚡ I love to expand my knowledge with different applications.</p>
+<p align="left">Hi, This is Sewmini Ranasinghe !!!<br><br>- 🔭 I’m working as an Associate Software Engineer<br>- 📚 I'm currently learning Flutter Applications<br>- ⚡ I love to expand my knowledge with different applications.</p>
 
 ###
 
