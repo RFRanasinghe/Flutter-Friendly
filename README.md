@@ -38,6 +38,15 @@
 
 ###
 
-<h3 align="left">🔥   What has been covered :<br><br>1) Create page navigation<br>2) Handling Stateless/Stateful Widgets<br>3) Using refactors for widgets<br>4) Use Row/column-wise content placement<br>5) Display the index-wise pages in the navigation bar<br>6) Condition-wise requirement change using a switch<br>7) Page leading attributes</h3>
+<h3 align="left">🔥 What has been covered :<br><br></h3> 
+<ul>
+  <li> Create page navigation</li>
+  <li> Handling Stateless/Stateful Widgets</li>
+  <li> Using refactors for widgets</li>
+  <li> Use Row/column-wise content placement</li>
+  <li> Display the index-wise pages in the navigation bar</li>
+  <li> Condition-wise requirement change using a switch</li>
+  <li> Page leading attributes</li>
+</ul>
 
 ###
