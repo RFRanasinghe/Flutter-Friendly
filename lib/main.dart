@@ -43,7 +43,7 @@ class RootPage extends StatefulWidget {
 }
 
 class _RootPageState extends State<RootPage> {
-  int CurrentPage = 0;
+  int currentPage = 0;
 
   @override
   Widget build(BuildContext context) {
@@ -64,10 +64,10 @@ class _RootPageState extends State<RootPage> {
         ],
         onDestinationSelected: (int index) {
           setState(() {
-            CurrentPage = index;
+            currentPage = index;
           });
         },
-        selectedIndex: CurrentPage,
+        selectedIndex: currentPage,
       ),
     );
   }
